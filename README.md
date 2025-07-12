@@ -92,6 +92,5 @@ Each problem includes multiple test cases to demonstrate functionality:
 
 ## Notes
 - All solutions are original and implemented without external assistance
-- Code includes comprehensive comments for clarity
 - Each problem is self-contained and can be run independently
 - Solutions follow Java best practices and coding standards 
